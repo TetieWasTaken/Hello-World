@@ -15,6 +15,7 @@ A "Hello, World!" program is generally a computer program that ignores any input
 - Java
 - JavaScript
 - Kotlin
+- Perl
 - PHP / HackLang
 - Python
 - Ruby
