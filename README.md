@@ -117,7 +117,9 @@ SOFTWARE.
 # Featured Languages
 
 <!--Languages start-->
-## Languages (83 total)
+## Languages (85 total)
+* [0(nop^)](Hello%2C%20World%21/EN/%23/0%28nop%5E%29)
+* [🆒](Hello%2C%20World%21/EN/%23/%F0%9F%86%92)
 * [a+](Hello%2C%20World%21/EN/A/a%2B.a%2B)
 * [ABAP](Hello%2C%20World%21/EN/A/ABAP.ABAP)
 * [Ada](Hello%2C%20World%21/EN/A/Ada.ads)
