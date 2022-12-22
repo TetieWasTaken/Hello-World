@@ -6,9 +6,17 @@ A "Hello, World!" program is generally a computer program that ignores any input
 
 ## Table of contents
 
-- [Contributing](#contributing)
-- [License](#license)
-- [Featured languages](#featured-languages)
+1. [Contributing](#contributing)
+    1. [How to Contribute](#how-to-contribute)
+    1. [Types of Contributions](#types-of-contributions)
+        1. [Bugs and Issues](#bugs-and-issues)
+        1. [New Scripts](#new-scripts)
+        1. [Translations](#translations)
+    1. [Submitting Contributions](#submitting-contributions)
+    1. [MIT license](#mit-license)
+2. [License](#license)
+3. [Featured languages](#featured-languages)
+    1. [Sources](#sources)
 
 # Contributing
 
@@ -72,7 +80,9 @@ To submit a contribution, follow the "How to Contribute" steps outlined above. W
 
 ### MIT license
 
-By contributing to this repository, you agree to license your contribution under the [MIT](https://github.com/UndefinedToast/HelloWorld/blob/main/README.md#License) terms.
+By contributing to this repository, you agree to license your contribution under the [MIT](#license) terms.
+
+[Back to top](#table-of-contents)
 
 # License
 
@@ -102,7 +112,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Featured Languages
+[Back to top](#table-of-contents)
+
+# Featured Languages
 
 <!--Languages start-->
 ## Languages (83 total)
@@ -191,6 +203,8 @@ SOFTWARE.
 * [Whitespace](Hello%2C%20World%21/EN/W/Whitespace.ws)
 <!--Languages end-->
 
-### Sources
+## Sources
 
 [@blackbird71SR](blackbird71sr.github.io/Hello-World/), [@leachim6](https://github.com/leachim6/hello-world), [helloworldcollection](http://helloworldcollection.de/)
+
+[Back to top](#table-of-contents)
