@@ -77,7 +77,6 @@ By contributing to this repository, you agree to license your contribution under
 ## Featured Languages
 
 <!--Languages start-->
-
 <!--Languages end-->
 
 ### Sources
