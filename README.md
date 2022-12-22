@@ -30,6 +30,7 @@ A "Hello, World!" program is generally a computer program that ignores any input
 - C#<br>
 - D<br>
 - Dart<br>
+- Delphi<br>
 - Dylan<br>
 - eC<br>
 - Eiffel<br>

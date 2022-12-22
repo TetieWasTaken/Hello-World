@@ -3,9 +3,9 @@ class Greeter
   end
 
   def salute
-    puts "Hello #{@name}!"
+    puts "Hello, #{@name}!"
   end
 end
 
-g = Greeter.new("world")
+g = Greeter.new("World")
 g.salute
