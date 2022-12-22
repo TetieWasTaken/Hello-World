@@ -95,37 +95,60 @@ Some of these scripts are taken from [@blackbird71SR](blackbird71sr.github.io/He
 
 # Contributing
 
-If you would like to contribute, please read this carefully before doing so.
+Thank you for considering contributing to this repository! Please read the following guidelines before making any contributions.
 
-## I would like to report/fix a bug that has to do with compiling or running a script
+## How to Contribute
 
-If you find a bug, error, or any other form of unexpected result in one or more of the scripts included in this repository. Feel free to create an [issue](https://github.com/UndefinedToast/HelloWorld/issues/new). Make sure to add the correct tags.
+To contribute to this repository, follow these steps:
 
-### Guidelines
+1. **Fork the repository**: First, you will need to create a fork of the repository that you want to contribute to. A fork is a copy of the repository that you can use to make changes without affecting the original repository. To create a fork, click the "Fork" button on the repository page on GitHub.
 
-- Issue must include at least short summary of the issue
-- Issue must include file(s) dedicated to that issue
-- Issue may include a way to solve this issue, if you include this there is a higher chance of it being resolved
+2. **Clone the repository**: Next, you will need to clone the repository to your local machine. This will allow you to make changes and commit them to your local repository. To clone the repository, use the `git clone` command and specify the URL of your fork. For example: `git clone https://github.com/YOUR-USERNAME/REPO-NAME.git`
 
-## I would like to add more programming languages to this repository
+3. **Create a new branch**: It's a good practice to create a new branch for your changes. This will allow you to keep your changes separate from the main codebase and make it easier to review and merge your changes later. To create a new branch, use the `git branch` command and specify a name for the branch. For example: `git branch my-changes`
 
-If you want to add more programming languages. Please make an [issue](https://github.com/UndefinedToast/HelloWorld/issues/new) and add the right tag and description.
+4. **Switch to the new branch**: To work on the new branch, you will need to switch to it using the `git checkout` command. For example: `git checkout my-changes`
 
-### Guidelines
+5. **Make and commit your changes**: Now you can make changes to the code on your local machine and commit them to your local repository. Use the `git add` and `git commit` commands to stage and commit your changes. Be sure to include a detailed commit message that explains the changes you made.
 
-- Script must be unique, meaning no duplicate files
-- Script must output 'Hello, World!' to the console, or any other form of display
-- Script must be fast to run/compile and not use any extra lines of code
+6. **Push your changes to your fork**: When you are ready to share your changes, you can push them to your fork on GitHub. Use the `git push` command and specify the name of your branch. For example: `git push origin my-changes`
 
-## I would like to add translations for different spoken languages
+7. **Create a pull request**: Finally, you can create a pull request to request that your changes be merged into the original repository. A pull request is a request to merge the changes in your repository into the original repository. To create a pull request, go to the repository page on GitHub and click the "Compare & pull request" button. Follow the prompts to create and submit the pull request.
 
-To add translations to this repository, make an [issue](https://github.com/UndefinedToast/HelloWorld/issues/new). Include the spoken language, translation and script. Don't forget to add the "Translation" tag.
+We will review your pull request and decide whether to merge the changes into the main codebase.
+## Types of Contributions
 
-### Guidelines
+We welcome the following types of contributions to this repository:
 
-- Script must be the same as main (EN) version\*, except for "Hello, World!"
-- Translation must be 100% correct, no google translate or other forms of translator software
+### Bugs and Issues
 
-\*Exception made for languages where special characters must be imported, such as in Web Assembly.
+If you have identified a bug or an issue with the existing code, we would appreciate it if you could submit a report with the following information:
 
-Pull requests are a work in progress.
+- A short summary of the issue
+- The specific file(s) or code snippet(s) that are causing the issue
+- A description of the expected behavior and the actual behavior you observed
+- If possible, a suggested solution to the issue
+
+Please note that we may not be able to accept every bug or issue report, but we will do our best to review and address as many as we can.
+
+### New Scripts
+We welcome submissions of new scripts that meet the following requirements:
+
+- The script must be unique and not already exist in the repository.
+- The script must output "Hello, World!" or a similar greeting to the console or any other form of display.
+- The script must be fast to run/compile and not use any extra lines of code that are not necessary for the greeting to be displayed.
+- Before submitting a new script, please make sure to test it thoroughly to ensure that it meets the above requirements and is fully functional.
+
+### Translations
+We welcome translations of the "Hello, World!" script into other languages. To submit a translation, please provide the following:
+
+- A version of the script that is written in the target language, with the greeting translated appropriately.
+= The translated greeting must be 100% correct and not generated using automated translation tools such as Google Translate.
+- Please note that we are only interested in translations for languages that are not already covered in the repository.
+
+## Submitting Contributions
+
+To submit a contribution, follow the "How to Contribute" steps outlined above. We will review all submissions and do our best to respond promptly. Please note that we may not be able to accept every contribution, but we appreciate your efforts and will provide feedback on why a contribution was not accepted if applicable.
+
+### License
+By contributing to this repository, you agree to license your contribution under the [MIT](https://github.com/UndefinedToast/HelloWorld/blob/main/LICENSE) terms.
