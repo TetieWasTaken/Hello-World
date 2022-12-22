@@ -87,6 +87,7 @@ A "Hello, World!" program is generally a computer program that ignores any input
 - Vim<br>
 - Visual Basic<br>
 - Web Assembly<br>
+- Whitespace<br>
 - Lisp<br>
 </details>
 
