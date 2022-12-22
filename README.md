@@ -4,65 +4,69 @@
 
 A "Hello, World!" program is generally a computer program that ignores any input and outputs or displays a message similar to "Hello, World!". A small piece of code in most general-purpose programming languages, this program is used to illustrate a language's basic syntax. "Hello, World!" programs are often the first a student learns to write in a given language, and they can also be used as a sanity check to ensure computer software intended to compile or run source code is correctly installed, and that its operator understands how to use it. - Wikipedia
 
-## 56 Languages featured:
+## 57 Languages featured:
 
-- ActionScript
-- Ada
-- A+
-- Bash
-- C
-- Ceylon
-- Clojure
-- COBOL
-- Cobra
-- Crystal
-- C++
-- C#
-- D
-- Dylan
-- eC
-- Eiffel
-- Elixr
-- Elm
-- Emacs Lisp
-- Erlang
-- F#
-- Fortran
-- Genie
-- Go
-- Groovy
-- Harbour
-- Haskell
-- Idris
-- Java
-- JavaScript
-- Julia
-- Kotlin
-- LiveScript
-- Magik
-- Mercury
-- Nemerle
-- Nim
-- Objective C
-- OpenCL
-- Pascal
-- Perl
-- PHP / HackLang
-- Python
-- Q#
-- Ruby
-- Rust
-- Scala
-- Scheme
-- Standard Meta Language
-- Swift
-- TypeScript
-- Unreal Script
-- Vala
-- Vim
-- Visual Basic
-- Web Assembly
-- Lisp
+<details>
+<summary>List of all programming languages featured in this repository</summary>
+- ActionScript <br>
+- Ada<br>
+- A+<br>
+- Bash<br>
+- Brainfuck<br>
+- C<br>
+- Ceylon<br>
+- Clojure<br>
+- COBOL<br>
+- Cobra<br>
+- Crystal<br>
+- C++<br>
+- C#<br>
+- D<br>
+- Dylan<br>
+- eC<br>
+- Eiffel<br>
+- Elixr<br>
+- Elm<br>
+- Emacs Lisp<br>
+- Erlang<br>
+- F#<br>
+- Fortran<br>
+- Genie<br>
+- Go<br>
+- Groovy<br>
+- Harbour<br>
+- Haskell<br>
+- Idris<br>
+- Java<br>
+- JavaScript<br>
+- Julia<br>
+- Kotlin<br>
+- LiveScript<br>
+- Magik<br>
+- Mercury<br>
+- Nemerle<br>
+- Nim<br>
+- Objective C<br>
+- OpenCL<br>
+- Pascal<br>
+- Perl<br>
+- PHP / HackLang<br>
+- Python<br>
+- Q#<br>
+- Ruby<br>
+- Rust<br>
+- Scala<br>
+- Scheme<br>
+- Standard Meta Language<br>
+- Swift<br>
+- TypeScript<br>
+- Unreal Script<br>
+- Vala<br>
+- Vim<br>
+- Visual Basic<br>
+- Web Assembly<br>
+- Lisp<br>
+</details>
 
 # Contributing
 
