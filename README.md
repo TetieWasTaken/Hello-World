@@ -76,93 +76,9 @@ By contributing to this repository, you agree to license your contribution under
 
 ## Featured Languages
 
-<details>
-<summary>List of all programming languages featured in this repository</summary>
-- A+<br>
-- ABAP<br>
-- Alice<br>
-- ASM<br>
-- ActionScript<br>
-- Ada<br>
-- au3<br>
-- Arduino<br>
-- Arnold C<br>
-- BASIC<br>
-- Bash<br>
-- Batch<br>
-- Brainfuck<br>
-- C#<br>
-- C++<br>
-- C<br>
-- COBOL<br>
-- COOL<br>
-- Ceylon<br>
-- Clojure<br>
-- Cobra<br>
-- Coffee<br>
-- Crystal<br>
-- D<br>
-- Dart<br>
-- Delphi Pascal<br>
-- Delphi<br>
-- Dylan<br>
-- eC<br>
-- Eiffel<br>
-- Elixr<br>
-- Elm<br>
-- Emacs Lisp<br>
-- Erlang<br>
-- F#<br>
-- Fortran<br>
-- Genie<br>
-- Go<br>
-- Groovy<br>
-- HTML<br>
-- Harbour<br>
-- Haskell<br>
-- INTERCAL
-- Idris<br>
-- Java<br>
-- JavaScript<br>
-- Julia<br>
-- Kotlin<br>
-- Lisp<br>
-- LiveScript<br>
-- Lua<br>
-- Magik<br>
-- Mercury<br>
-- Nemerle<br>
-- Nim<br>
-- OCaml<br>
-- Objective C<br>
-- OpenCL<br>
-- PHP / HackLang<br>
-- Pascal<br>
-- Perl<br>
-- PostScript<br>
-- Pro<br>
-- Python<br>
-- Q#<br>
-- R<br>
-- Ruby<br>
-- Rust<br>
-- Scala<br>
-- Scheme<br>
-- Shakespeare Programming Language<br>
-- Solidity<br>
-- Standard Meta Language<br>
-- Structured Query Language<br>
-- Swift<br>
-- Tool Command Language<br>
-- TypeScript<br>
-- Unreal Script<br>
-- Vala<br>
-- Vim<br>
-- Visual Basic<br>
-- Web Assembly<br>
-- Whitespace<br>
-- Emoji code<br>
-</details>
+<!--Languages start-->
+
+<!--Languages end-->
 
 ### Sources
 
