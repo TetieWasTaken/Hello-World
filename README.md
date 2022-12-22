@@ -43,6 +43,7 @@ A "Hello, World!" program is generally a computer program that ignores any input
 - Mercury
 - Nemerle
 - Nim
+- Objective C
 - OpenCL
 - Pascal
 - Perl
