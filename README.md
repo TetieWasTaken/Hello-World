@@ -15,6 +15,7 @@ A "Hello, World!" program is generally a computer program that ignores any input
 - au3<br>
 - A+<br>
 - Bash<br>
+- BASIC<br>
 - Brainfuck<br>
 - C<br>
 - Ceylon<br>
