@@ -88,7 +88,7 @@ A "Hello, World!" program is generally a computer program that ignores any input
 - Visual Basic<br>
 - Web Assembly<br>
 - Whitespace<br>
-- Lisp<br>
+- Emoji code<br>
 </details>
 
 Some of these scripts are taken from [@blackbird71SR](blackbird71sr.github.io/Hello-World/). Check them out!
