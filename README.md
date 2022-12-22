@@ -76,6 +76,7 @@ A "Hello, World!" program is generally a computer program that ignores any input
 - Scala<br>
 - Scheme<br>
 - Solidity<br>
+- Shakespeare Programming Language<br>
 - Standard Meta Language<br>
 - Swift<br>
 - TypeScript<br>
