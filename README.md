@@ -21,6 +21,7 @@ A "Hello, World!" program is generally a computer program that ignores any input
 - D
 - Dylan
 - eC
+- Eiffel
 - Elixr
 - Elm
 - Erlang
