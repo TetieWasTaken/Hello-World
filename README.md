@@ -84,6 +84,7 @@ By contributing to this repository, you agree to license your contribution under
 - ActionScript<br>
 - Ada<br>
 - au3<br>
+- Arnold C<br>
 - BASIC<br>
 - Bash<br>
 - Batch<br>
