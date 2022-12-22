@@ -80,6 +80,7 @@ By contributing to this repository, you agree to license your contribution under
 <summary>List of all programming languages featured in this repository</summary>
 - A+<br>
 - ABAP<br>
+- Alice<br>
 - ASM<br>
 - ActionScript<br>
 - Ada<br>
