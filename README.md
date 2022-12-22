@@ -24,6 +24,7 @@ A "Hello, World!" program is generally a computer program that ignores any input
 - LiveScript
 - Magik
 - Nim
+- OpenCL
 - Perl
 - PHP / HackLang
 - Python
