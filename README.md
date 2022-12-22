@@ -70,6 +70,7 @@ A "Hello, World!" program is generally a computer program that ignores any input
 - PHP / HackLang<br>
 - Python<br>
 - Q#<br>
+- R<br>
 - Ruby<br>
 - Rust<br>
 - Scala<br>
