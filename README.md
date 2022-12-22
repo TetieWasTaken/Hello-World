@@ -164,7 +164,9 @@ By contributing to this repository, you agree to license your contribution under
 - Emoji code<br>
 </details>
 
-Some of these scripts are taken from [@blackbird71SR](blackbird71sr.github.io/Hello-World/). Check them out!
+### Sources
+
+[@blackbird71SR](blackbird71sr.github.io/Hello-World/), [@leachim6](https://github.com/leachim6/hello-world), [helloworldcollection](http://helloworldcollection.de/)
 
 # License
 
