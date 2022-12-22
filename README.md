@@ -4,32 +4,33 @@
 
 A "Hello, World!" program is generally a computer program that ignores any input and outputs or displays a message similar to "Hello, World!". A small piece of code in most general-purpose programming languages, this program is used to illustrate a language's basic syntax. "Hello, World!" programs are often the first a student learns to write in a given language, and they can also be used as a sanity check to ensure computer software intended to compile or run source code is correctly installed, and that its operator understands how to use it. - Wikipedia
 
-## 71 Languages featured:
+## 82 Languages featured:
 
 <details>
 <summary>List of all programming languages featured in this repository</summary>
+- A+<br>
 - ABAP<br>
+- ASM<br>
 - ActionScript<br>
 - Ada<br>
-- ASM<br>
 - au3<br>
-- A+<br>
-- Bash<br>
 - BASIC<br>
+- Bash<br>
 - Batch<br>
 - Brainfuck<br>
+- C#<br>
+- C++<br>
 - C<br>
+- COBOL<br>
+- COOL<br>
 - Ceylon<br>
 - Clojure<br>
-- COBOL<br>
 - Cobra<br>
-- COOL<br>
 - Coffee<br>
 - Crystal<br>
-- C++<br>
-- C#<br>
 - D<br>
 - Dart<br>
+- Delphi Pascal<br>
 - Delphi<br>
 - Dylan<br>
 - eC<br>
@@ -43,11 +44,11 @@ A "Hello, World!" program is generally a computer program that ignores any input
 - Genie<br>
 - Go<br>
 - Groovy<br>
+- HTML<br>
 - Harbour<br>
 - Haskell<br>
-- HTML<br>
-- Idris<br>
 - INTERCAL
+- Idris<br>
 - Java<br>
 - JavaScript<br>
 - Julia<br>
@@ -59,15 +60,14 @@ A "Hello, World!" program is generally a computer program that ignores any input
 - Mercury<br>
 - Nemerle<br>
 - Nim<br>
-- Objective C<br>
 - OCaml<br>
+- Objective C<br>
 - OpenCL<br>
-- Delphi Pascal<br>
+- PHP / HackLang<br>
 - Pascal<br>
 - Perl<br>
-- Pro<br>
 - PostScript<br>
-- PHP / HackLang<br>
+- Pro<br>
 - Python<br>
 - Q#<br>
 - R<br>
@@ -75,8 +75,8 @@ A "Hello, World!" program is generally a computer program that ignores any input
 - Rust<br>
 - Scala<br>
 - Scheme<br>
-- Solidity<br>
 - Shakespeare Programming Language<br>
+- Solidity<br>
 - Standard Meta Language<br>
 - Structured Query Language<br>
 - Swift<br>
