@@ -117,7 +117,7 @@ SOFTWARE.
 # Featured Languages
 
 <!--Languages start-->
-## Languages (88 total)
+## Languages (89 total)
 * [0(nop^)](Hello%2C%20World%21/EN/%23/0%28nop%5E%29)
 * [🆒](Hello%2C%20World%21/EN/%23/%F0%9F%86%92)
 * [a+](Hello%2C%20World%21/EN/A/a%2B.a%2B)
@@ -141,6 +141,7 @@ SOFTWARE.
 * [Cobra](Hello%2C%20World%21/EN/C/Cobra.cobra)
 * [CoffeeScript](Hello%2C%20World%21/EN/C/CoffeeScript.coffee)
 * [COOL](Hello%2C%20World%21/EN/C/COOL.cl)
+* [COW](Hello%2C%20World%21/EN/C/COW.cow)
 * [Crystal](Hello%2C%20World%21/EN/C/Crystal.cr)
 * [CSharp](Hello%2C%20World%21/EN/C/CSharp.cs)
 * [D](Hello%2C%20World%21/EN/D/D.d)
