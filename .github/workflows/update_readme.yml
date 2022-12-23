@@ -14,5 +14,5 @@ jobs:
         run: python update_readme.py
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Update Readme
+          commit_message: Added languages to README
           add_files: "README.md"
